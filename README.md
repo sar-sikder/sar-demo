@@ -1,3 +1,4 @@
 # sar-demo
-This is my first Git Repository
-Author - Shaharia Abdullah Rakib
+This is my first Git Repository.
+<br>
+Author - Shaharia Abdullah Rakib.
